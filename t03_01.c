@@ -10,7 +10,7 @@ int main(int _argc, char **_argv)
 
   int num[n];
   for (int i = 0; i < n; i++)
-  {
+  { 
     scanf("%d", &num[i]);
   }
   
